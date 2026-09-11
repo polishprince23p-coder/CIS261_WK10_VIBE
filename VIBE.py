@@ -1,3 +1,7 @@
+#Michael Korman
+#CIS261
+#WK10 VIBE Coding
+
 class Student:
     def __init__(self, name, student_id, test1, test2, test3):
         self.name = name
